@@ -1,0 +1,17 @@
+C:\Users\Beiron\AppData\Local\Temporary Projects\MultiCube Admin App\bin\Debug\MultiCube Admin App.exe.config
+C:\Users\Beiron\Dropbox\My VB Projects\Multicube Admin App\MultiCube Admin App\MultiCube Admin App\bin\Debug\MultiCube Admin App.exe.config
+C:\Users\Beiron\Dropbox\My VB Projects\Multicube Admin App\MultiCube Admin App\MultiCube Admin App\bin\Debug\MultiCube Admin App.exe
+C:\Users\Beiron\Dropbox\My VB Projects\Multicube Admin App\MultiCube Admin App\MultiCube Admin App\bin\Debug\MultiCube Admin App.pdb
+C:\Users\Beiron\Dropbox\My VB Projects\Multicube Admin App\MultiCube Admin App\MultiCube Admin App\bin\Debug\MultiCube Admin App.xml
+C:\Users\Beiron\Dropbox\My VB Projects\Multicube Admin App\MultiCube Admin App\MultiCube Admin App\obj\Debug\MultiCube_Admin_App.Login.resources
+C:\Users\Beiron\Dropbox\My VB Projects\Multicube Admin App\MultiCube Admin App\MultiCube Admin App\obj\Debug\MultiCube_Admin_App.Resources.resources
+C:\Users\Beiron\Dropbox\My VB Projects\Multicube Admin App\MultiCube Admin App\MultiCube Admin App\obj\Debug\MultiCube Admin App.vbproj.GenerateResource.Cache
+C:\Users\Beiron\Dropbox\My VB Projects\Multicube Admin App\MultiCube Admin App\MultiCube Admin App\obj\Debug\MultiCube Admin App.exe
+C:\Users\Beiron\Dropbox\My VB Projects\Multicube Admin App\MultiCube Admin App\MultiCube Admin App\obj\Debug\MultiCube Admin App.xml
+C:\Users\Beiron\Dropbox\My VB Projects\Multicube Admin App\MultiCube Admin App\MultiCube Admin App\obj\Debug\MultiCube Admin App.pdb
+C:\Users\Beiron\Dropbox\My VB Projects\Multicube Admin App\MultiCube Admin App\MultiCube Admin App\bin\Debug\MySql.Data.dll
+C:\Users\Beiron\Dropbox\My VB Projects\Multicube Admin App\MultiCube Admin App\MultiCube Admin App\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\Beiron\Dropbox\My VB Projects\Multicube Admin App\MultiCube Admin App\MultiCube Admin App\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Beiron\Dropbox\My VB Projects\Multicube Admin App\MultiCube Admin App\MultiCube Admin App\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\Beiron\Dropbox\My VB Projects\Multicube Admin App\MultiCube Admin App\MultiCube Admin App\bin\Debug\MySql.Web.dll
+C:\Users\Beiron\Dropbox\My VB Projects\Multicube Admin App\MultiCube Admin App\MultiCube Admin App\obj\Debug\MultiCube Admin App.vbprojResolveAssemblyReference.cache
