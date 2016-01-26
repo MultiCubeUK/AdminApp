@@ -1,1 +1,12 @@
 M:\MultiCubeUk\AdminApp-Testing\AdminApp-Testing\bin\Debug\AdminApp-Testing.exe.config
+M:\MultiCubeUk\AdminApp-Testing\bin\Debug\AdminApp-Testing.exe.config
+M:\MultiCubeUk\AdminApp-Testing\obj\Debug\AdminApp-Testing.vbprojResolveAssemblyReference.cache
+M:\MultiCubeUk\AdminApp-Testing\obj\Debug\AdminApp_Testing.Frm1.resources
+M:\MultiCubeUk\AdminApp-Testing\obj\Debug\AdminApp_Testing.Resources.resources
+M:\MultiCubeUk\AdminApp-Testing\obj\Debug\AdminApp-Testing.vbproj.GenerateResource.Cache
+M:\MultiCubeUk\AdminApp-Testing\obj\Debug\AdminApp-Testing.xml
+M:\MultiCubeUk\AdminApp-Testing\bin\Debug\AdminApp-Testing.exe
+M:\MultiCubeUk\AdminApp-Testing\bin\Debug\AdminApp-Testing.pdb
+M:\MultiCubeUk\AdminApp-Testing\bin\Debug\AdminApp-Testing.xml
+M:\MultiCubeUk\AdminApp-Testing\obj\Debug\AdminApp-Testing.exe
+M:\MultiCubeUk\AdminApp-Testing\obj\Debug\AdminApp-Testing.pdb
