@@ -43,7 +43,7 @@ Public Class Login
     Private Sub establishDatabseConnection()
 
         statusTB.Text &= "Attempting to connect to database..." & vbCrLf
-        statusTB.Text &= "<<DEBUG>>Connection String = " & SQLConnection.getConnectionString() & vbCrLf
+        ' statusTB.Text &= "<<DEBUG>>Connection String = " & SQLConnection.getConnectionString() & vbCrLf
         statusTB.Text &= "Connection to database established..." & vbTab
         connectionEstablished = SQLConnection.openConn()
         If connectionEstablished = True Then
@@ -61,9 +61,9 @@ Public Class Login
     End Sub
 
     Private Sub LoginBTN_Click(sender As Object, e As EventArgs) Handles LoginBTN.Click
-        If usernameTB.Text = "" And PassTB.Text = "" Then
-            Dim test As String = SQLConnection.testConnection()
-            statusTB.Text &= "Test statement returns - " & test & vbCrLf
-        End If
+        ' If usernameTB.Text = "" And PassTB.Text = "" Then
+        'Dim test As String = SQLConnection.testConnection()
+        'statusTB.Text &= "Test statement returns - " & test & vbCrLf
+        'End If
     End Sub
 End Class
